@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I am trying to learn coding with the Arduino IDE working with ESP32, RP2040 and Arduino Microcontrollers.  Progress is slow.
+## Currently working on getting websockets to work and figuring out how to integrate github into my workflow.
 
 <!--
 **koombot/Koombot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
